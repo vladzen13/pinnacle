@@ -3,12 +3,13 @@
 Original repo seems dead, no commits and merges for years.
 Cleaned up requirements, fixed tests and bumped docker python image version to nice and fast 3.11
 
-Install this fork:
+# Install this fork:
 
+```
 $ pipenv --python 3.11
 
 $ pipenv install https://github.com/vladzen13/pinnacle/archive/master.zip
-
+```
 
 ## Original repo README
 
