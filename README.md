@@ -8,8 +8,6 @@ Cleaned up requirements, fixed tests and bumped docker python image version to n
 ```
 $ pipenv --python 3.11
 
-$ pipenv install requests       # somehow pinnacle package does not install without requests and does not tell pip to install it, need to fix this later
-
 $ pipenv install https://github.com/vladzen13/pinnacle/archive/master.zip
 ```
 
